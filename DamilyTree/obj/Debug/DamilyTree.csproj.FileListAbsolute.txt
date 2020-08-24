@@ -1,0 +1,9 @@
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\obj\Debug\DamilyTree.csprojAssemblyReference.cache
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\obj\Debug\DamilyTree.Properties.Resources.resources
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\obj\Debug\DamilyTree.UserFamilyNodeControl.resources
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\obj\Debug\DamilyTree.csproj.GenerateResource.cache
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\bin\Debug\DamilyTree.exe.config
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\bin\Debug\DamilyTree.exe
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\bin\Debug\DamilyTree.pdb
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\obj\Debug\DamilyTree.exe
+C:\C#\WinForms\2020.03.09 FamilyTreeApp2\DamilyTree\DamilyTree\obj\Debug\DamilyTree.pdb
